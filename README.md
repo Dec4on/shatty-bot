@@ -18,4 +18,4 @@ Then create a bot and add the bot's token to the file too.
 ### Running the code
 First install the libraries:
 ``pip install -r requirements.txt``
-Then run the code, and wait for it to download the sentiment-analysis model.
+Then run the code, and wait for it to download the AI model.
