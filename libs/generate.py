@@ -4,7 +4,7 @@ import asyncio
 from libs.utilities import *
 
 
-
+# Change device variable to make it run on gpu instead of cpu
 sentiment_pipeline = pipeline("sentiment-analysis", device=-1, model='distilbert/distilbert-base-uncased-finetuned-sst-2-english') # Downloading AI model
 
 
