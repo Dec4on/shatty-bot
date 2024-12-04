@@ -1,0 +1,8 @@
+discord
+DateTime
+asyncio
+requests
+transformers==4.46.1
+firebase-admin==6.4.0
+torch
+python-dotenv
